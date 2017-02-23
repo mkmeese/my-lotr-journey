@@ -15,8 +15,9 @@
   "license": "MIT",
   "repository": {
   "type": "git",
-  "url": "git://github.com/username/repository.git"
-}
+  "url": "https://github.com/mkmeese/my-lotr-journey",
+  "private": true
+},
   "devDependencies": {
     "babel-core": "^6.5.2",
     "babel-loader": "^6.2.2",
