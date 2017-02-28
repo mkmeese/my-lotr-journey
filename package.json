@@ -14,10 +14,10 @@
   "author": "mkmeese",
   "license": "MIT",
   "repository": {
-  "type": "git",
-  "url": "https://github.com/mkmeese/my-lotr-journey",
-  "private": true
-},
+    "type": "git",
+    "url": "https://github.com/mkmeese/my-lotr-journey",
+    "private": true
+  },
   "devDependencies": {
     "babel-core": "^6.5.2",
     "babel-loader": "^6.2.2",
@@ -34,6 +34,8 @@
   },
   "dependencies": {
     "react": "^0.14.7",
-    "react-dom": "^0.14.7"
+    "react-addons-perf": "^15.4.2",
+    "react-dom": "^0.14.7",
+    "uuid": "^3.0.1"
   }
 }
