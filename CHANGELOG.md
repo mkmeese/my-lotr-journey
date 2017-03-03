@@ -1,5 +1,12 @@
 ###My LOTR Journey Changelog
 
+#1.0.2
+* Pushing children and props to Note, instead of task and onDelete
+* Rendering each note in Notes
+* Created new component - Editable
+* Connected editable to Notes
+* Added activateNoteEdit and editNote functions
+
 #1.0.1
 * Added Changelog file
 * Implemented uuid to generate unique IDs
